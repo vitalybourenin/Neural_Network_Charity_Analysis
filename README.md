@@ -6,6 +6,6 @@ Using binary classification, our model attempts to predict whether a charity tha
 
 # Results
 
-![accuracy](accuracy.png)
+![accuracy](accuracy.PNG)
 
 Our model proved to be ~72.5% accurate, meaning it would correctly predicted the success of of a charity about 72.5% of the time. This is fair considering the relatively small set of input features, but needs further optimization. 
